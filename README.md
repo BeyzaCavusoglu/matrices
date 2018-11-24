@@ -5,7 +5,7 @@ Practice on matrices (2 dimensional arrays/vectors)
 //The aim is practice on matrices (two dimensional arrays/vectors) and file input/output. I implemented a program which detects a combination of matrices which add up to a single matrix, given a pool of matrices. The details will be explained in the following sections below.
 
 **************************************
-Input 
+Input added as a word file.
 
 The program prompts for the input file name. Then, it reads the file name from the standard input. The first line of the input file contains a single integer stating the number of matrices (N) in the given file. The second line of the input file contains two integers stating the number of rows and columns of all the matrices in the file.  Next, the rest of the file contains the actual matrices. Between two matrices there will be an empty line. A sample input file can be as follows:
 
@@ -37,66 +37,8 @@ When a combination that gives a desired result is found, print an output.
 If a desired result is not found, print an appropriate error message.
   
 ************************************************************
-Sample Outputs 
+Sample Outputs added as a word file.
 
-Below you can find sample outputs for my program:
-
-input.txt
-
-5
-3 3
-
-1 2 3
-4 5 6
-7 8 9
-
-9 8 7
-6 5 4
-3 2 1
-
-2 1 2
-1 2 1
-2 1 2
-
-10 10 10
-10 10 10
-10 10 10
-
-5 1 9
-2 8 3
-4 2 9
-
-Case 1:
-
-Please enter the input file name: in.txt
-Invalid file name. Please enter again: input.txt
-Enter k: 2
-Matrix 3 can be written as the sum of matrices 0 1
-Press any key to continue . . .
-
-Case 2:
-Please enter the input file name: input.txt
-Enter k: 3
-There are no valid combinations in the given input file
-Press any key to continue . . .
-******************************
-input2.txt
-
-3
-4 4
-
-
-1 2 3 4
-3 2 1 3
-2 3 1 5
-3 2 1 3
-
-
-
-1 1 1 1
-2 2 2 2 2
-3 3 3 3
-4 4 4 4
 
 
 
