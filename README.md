@@ -2,7 +2,7 @@
 Practice on matrices (2 dimensional arrays/vectors)
 
 
-//The aim of this homework is practice on matrices (two dimensional arrays/vectors) and file input/output. I implemented a program which detects a combination of matrices which add up to a single matrix, given a pool of matrices. The details will be explained in the following sections below.
+//The aim is practice on matrices (two dimensional arrays/vectors) and file input/output. I implemented a program which detects a combination of matrices which add up to a single matrix, given a pool of matrices. The details will be explained in the following sections below.
 
 **************************************
 Input 
